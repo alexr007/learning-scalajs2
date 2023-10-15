@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "parcel index.html --no-cache --dist-dir dist --log-level info"
+  },
+  "devDependencies": {
+    "parcel": "^2.1.0"
+  }
+}

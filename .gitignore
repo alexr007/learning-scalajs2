@@ -1,0 +1,11 @@
+target
+dist
+.cache
+.classpath
+.project
+.settings
+.idea
+.bsp
+node_modules
+package-lock.json
+.parcel-cache
